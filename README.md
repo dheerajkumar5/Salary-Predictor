@@ -2,7 +2,7 @@
 
 This repository contains a simple Linear Regression model designed to predict salaries based on a single variable (e.g., years of experience). The project demonstrates the effectiveness of linear regression for salary prediction and provides comparisons with other models like Random Forest, Lasso, and Ridge Regression.
 
-##Key Features
+##**Key Features**
 
 Implements a single-variable Linear Regression model to predict salaries.
 
